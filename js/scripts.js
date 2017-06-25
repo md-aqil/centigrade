@@ -183,6 +183,7 @@ Version      : 1.0
         
 
 })(jQuery);
+
 // video bg
 $( document ).ready(function() {
 
