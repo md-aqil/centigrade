@@ -585,6 +585,8 @@ ul.work li {
     border-bottom: 2px solid transparent;
     padding: 6px 40px;
     font-weight: 500;
+    background: #ddd;
+    border-radius: 3px;
 }
 
 ul.work li:hover {
@@ -595,10 +597,9 @@ ul.work li:hover {
 }
 
 ul.work li.active {
-   color: #000;
+   color: #fff;
     border-bottom: 2px solid #000;
-    background: #ddd;
-    
+    background: #000;
     border-radius: 3px;
     box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.14), 0 4px 5px 0 rgba(0, 0, 0, 0.098), 0 1px 10px 0 rgba(0, 0, 0, 0.084);
 }
